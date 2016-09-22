@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    height: 50px;
+    background-color: lightslategrey;
+    line-height: 50px;
+}
+input
+{
+    width: 80%;
+    height: 30px;
+    margin: 0 10%;
+}
+section
+{
+    height: 30vw;
+    border-bottom: 1px solid rgb(242, 242, 242);
+}
+span
+{
+    height: 99px;
+}
+img
+{
+    float: left;
+    width: 30vw;
+    height: 20vw;
+    margin-top: 5vw;
+}
+p
+{
+    padding-left: 31vw;
+}
+.name, .price
+{
+    font-size: 1em;
+    height: 25%;
+}
+.detail
+{
+    font-size: 12px;
+    height: 50%;
+    color: grey;
+}
+.price
+{
+    color: red;
+}
+
